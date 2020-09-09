@@ -6,7 +6,7 @@ export const environment = {
   production: false,
   region: 'us-east-1',
   userPoolId: 'us-east-1_VedG1wuTj',
-  userPoolWebClientId: '53nveje4n23t43u0itn44kh5qd',
+  userPoolWebClientId: '3fjv13g52nng4m2uatncc99tl',
 };
 
 /*
